@@ -1,0 +1,16 @@
+[submodule "py-data"]
+	path = py-data
+	url = git@github.com:abuabdirohman4/py-data.git
+	branch = master
+[submodule "py-flask"]
+	path = py-flask
+	url = git@github.com:abuabdirohman4/py-flask.git
+	branch = master
+[submodule "py-odoo"]
+	path = py-odoo
+	url = git@github.com:abuabdirohman4/py-odoo.git
+	branch = master
+[submodule "py-oop"]
+	path = py-oop
+	url = git@github.com:abuabdirohman4/py-oop.git
+	branch = main
