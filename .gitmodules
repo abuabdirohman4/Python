@@ -14,3 +14,6 @@
 	path = py-oop
 	url = git@github.com:abuabdirohman4/py-oop.git
 	branch = main
+[submodule "py-pythonic"]
+	path = py-pythonic
+	url = git@github.com:abuabdirohman4/py-pythonic.git
