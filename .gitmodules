@@ -17,3 +17,6 @@
 [submodule "py-pythonic"]
 	path = py-pythonic
 	url = git@github.com:abuabdirohman4/py-pythonic.git
+[submodule "py-basic"]
+	path = py-basic
+	url = git@github.com:abuabdirohman4/py-basic.git
